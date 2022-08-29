@@ -1,2 +1,6 @@
 Primer commit
+<<<<<<< HEAD
 Este parrafo es mi sengundo commit y aqui comenzara mi segunda branch
+=======
+Voy a hacer un merge de second a main
+>>>>>>> second
